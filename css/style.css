@@ -1,5 +1,6 @@
 body{
-    background: linear-gradient(#D0F5BE,#9ED2C6) 
+    background: linear-gradient(#D0F5BE,#9ED2C6);
+    font-family: 'Montserrat', sans-serif;
 }
 
 h1{
